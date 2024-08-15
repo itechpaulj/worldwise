@@ -1,0 +1,16 @@
+{
+  "cities": [
+    {
+      "id": 1718113973557,
+      "cityName": "Gweta",
+      "country": "Botswana",
+      "emoji": "BW",
+      "date": "2024-11-05T13:52:53.557Z",
+      "notes": "",
+      "position": {
+        "lat": -20.715015145512098,
+        "lng": 26.059570312500004
+      }
+    }
+  ]
+}
