@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "id": 1718183009140,
+      "cityName": "Shinshiro",
+      "country": "Japan",
+      "emoji": "JP",
+      "date": "2024-12-05T09:03:29.140Z",
+      "notes": "",
+      "position": {
+        "lat": 34.95799531086792,
+        "lng": 137.46093750000003
+      }
+    },
+    {
+      "id": 1718183709471,
+      "cityName": "Ann",
+      "country": "Myanmar",
+      "emoji": "MM",
+      "date": "2024-12-05T09:15:09.471Z",
+      "notes": "",
+      "position": {
+        "lat": 20.116337183454192,
+        "lng": 94.01666919184177
+      }
+    },
+    {
+      "id": 1718183895575,
+      "cityName": "Damongo",
+      "country": "Ghana",
+      "emoji": "GH",
+      "date": "2024-12-05T09:18:15.575Z",
+      "notes": "",
+      "position": {
+        "lat": 9.340672181980947,
+        "lng": -1.8676757812500002
+      }
+    },
+    {
+      "id": 1718200645513,
+      "cityName": "San Jose del Monte",
+      "country": "Philippines (the)",
+      "emoji": "PH",
+      "date": "2024-12-05T13:57:25.513Z",
+      "notes": "",
+      "position": {
+        "lat": 14.806749372133767,
+        "lng": 121.0968017578125
+      }
+    }
+  ]
+}
